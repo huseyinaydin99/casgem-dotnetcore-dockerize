@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Casgem.Dockerize_ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
